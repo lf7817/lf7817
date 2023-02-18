@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flf7817%2Fhit-counter&count_bg=%236493e9&title_bg=%231B1A1A&icon=iconify.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 <!--
 **lf7817/lf7817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
